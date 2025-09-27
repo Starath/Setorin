@@ -3,6 +3,8 @@
 [![Next.js](https://img.shields.io/badge/Next.js-14+-black)](https://nextjs.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green)](https://fastapi.tiangolo.com)
 
+(Ini repository migrasi dari repo setorin milik ketua tim ADA SPARTANS, pablonification)
+
 Setorin adalah sistem bank sampah cerdas yang menggabungkan teknologi Web, AI, dan IoT untuk memvalidasi serta memberikan reward setiap kali pengguna membuang botol plastik. Sistem ini menggunakan kecerdasan buatan untuk mengidentifikasi merek botol, mengukur dimensi, dan menghitung volume untuk memastikan keaslian dan kualitas sampah yang dikumpulkan.
 
 ## 🌐 Live Demo
